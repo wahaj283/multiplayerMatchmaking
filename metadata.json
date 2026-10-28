@@ -1,0 +1,6 @@
+
+{
+  "name": "AVL Matchmaking Simulator",
+  "description": "A high-fidelity educational tool and game simulator that visualizes AVL tree balancing logic while managing a real-time multiplayer matchmaking system.",
+  "requestFramePermissions": []
+}
